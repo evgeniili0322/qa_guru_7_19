@@ -20,5 +20,6 @@
     "job",
     "id",
     "createdAt"
-  ]
+  ],
+  "additionalProperties": false
 }

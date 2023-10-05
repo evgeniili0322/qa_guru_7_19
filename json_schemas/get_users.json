@@ -204,5 +204,6 @@
     "total_pages",
     "data",
     "support"
-  ]
+  ],
+  "additionalProperties": false
 }
